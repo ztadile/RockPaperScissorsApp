@@ -37,5 +37,4 @@ Play against the AI, track your wins and losses, and enjoy a lightweight animate
 - Android SDK 34+
 - Emulator or physical device (API 30 or higher recommended)
 
-### Installation
-1. Cl
+
